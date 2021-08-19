@@ -9,6 +9,5 @@ function setup()
 
 function modelLoaded()
 {
-    console.log("Model Loaded")
+    console.log("Model Loaded");
 }
-
